@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfU/m/ZD8/b/02fM8iVhjFBYC4a0uE0tgrajrIrA3koRkLPbJ3PNaOI/pEFe1TV6H4XQzsBUBHqyBvvRA3ONcA==",
+  "success": true,
+  "projectFilePath": "E:\\AuthenticationAndAuthorization\\AuthenticationAndAuthourization\\angular_auth\\AngualrWebAPI\\AngualrWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bodaa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bodaa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bodaa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\bodaa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\bodaa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\bodaa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
