@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngualrWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10b71f0cec9d2416ef6bc8209dbccdd5d7468575")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngualrWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngualrWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
